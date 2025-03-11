@@ -5,7 +5,7 @@ description: Documentation for LTR Runbooks
 
 # Theme settings
 remote_theme: pmarsceill/just-the-docs
-
+color_scheme: light
 # Plugins
 plugins:
   - jekyll-remote-theme
