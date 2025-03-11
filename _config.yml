@@ -1,0 +1,23 @@
+# Site settings
+title: LTR Runbooks
+description: Documentation for LTR Runbooks
+baseurl: "/ltr-runbooks" # Adjust based on your GitHub Pages setup
+url: "https://runai-professional-services.github.io"
+
+# Theme settings
+remote_theme: pmarsceill/just-the-docs
+
+# Plugins
+plugins:
+  - jekyll-remote-theme
+
+# Search settings
+search_enabled: true
+search:
+  heading_level: 2
+  previews: 3
+  preview_words_before: 5
+  preview_words_after: 10
+
+# Other settings
+logo: "" # Optional
