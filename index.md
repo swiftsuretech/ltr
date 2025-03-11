@@ -1,5 +1,5 @@
 ---
-title: Learn to Run
+title: Installs and Upgrades
 nav_order: 1
 ---
 
