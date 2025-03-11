@@ -1,6 +1,7 @@
 ---
 title: Upgrading Run AI
 nav_order: 3
+parent: Learn to Run
 ---
 
 # Upgrading The Cluster

@@ -1,6 +1,7 @@
 ---
 title: Installing Run AI
 nav_order: 2
+parent: Learn to Run
 ---
 
 # Installing a Self-Hosted Cluster
