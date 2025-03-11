@@ -1,5 +1,5 @@
 ---
-title: 1. Learn to Run
+title: Learn to Run
 nav_order: 1
 ---
 

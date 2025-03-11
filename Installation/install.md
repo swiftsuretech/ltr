@@ -1,5 +1,5 @@
 ---
-title: 2. Installing Run AI
+title: Installing Run AI
 nav_order: 2
 ---
 

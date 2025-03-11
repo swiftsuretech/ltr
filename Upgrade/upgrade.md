@@ -1,5 +1,5 @@
 ---
-title: 3. Upgrading Run AI
+title: Upgrading Run AI
 nav_order: 3
 ---
 
