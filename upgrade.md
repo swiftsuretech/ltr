@@ -1,5 +1,5 @@
 ---
-title: Upgrading Run AI
+title: 3. Upgrading Run AI
 ---
 
 # Upgrading The Cluster
