@@ -1,5 +1,6 @@
 ---
 title: 3. Upgrading Run AI
+nav_order: 3
 ---
 
 # Upgrading The Cluster

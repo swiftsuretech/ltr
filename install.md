@@ -1,5 +1,6 @@
 ---
 title: 2. Installing Run AI
+nav_order: 2
 ---
 
 # Installing a Self-Hosted Cluster
