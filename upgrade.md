@@ -1,5 +1,5 @@
 ---
-title: Installing Run AI
+title: Upgrading Run AI
 ---
 
 # Installing a Self-Hosted Cluster
