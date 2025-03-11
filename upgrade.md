@@ -2,7 +2,7 @@
 title: Upgrading Run AI
 ---
 
-# Installing a Self-Hosted Cluster
+# Upgrading The Cluster
 
 Note - Always refer to documentation - this is just a students' guide*
 
